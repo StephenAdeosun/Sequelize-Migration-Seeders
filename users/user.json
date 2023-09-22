@@ -1,0 +1,20 @@
+[
+    {
+        "username": "Love",
+        "password": "456",
+        "api_key": "Love456",
+        "role": "user"
+    },
+    {
+        "username": "Vivian",
+        "password": "123",
+        "api_key": "Vivian123",
+        "role": "admin"
+    },
+    {
+        "username": "James",
+        "password": "12345",
+        "api_key": "James12345",
+        "role": "user"
+    }
+]
