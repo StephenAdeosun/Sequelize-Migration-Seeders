@@ -13,7 +13,7 @@ module.exports = {
      * }], {});
     */
     await queryInterface.bulkInsert('users', [{
-     id:1,
+    id:1,
       firstName: 'John',
       lastName: 'Doe',
       email: "me@example.com",
